@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewTutorial</string>
+    <string name="cd_custom_imageview">Custom Imageview</string>
+</resources>
