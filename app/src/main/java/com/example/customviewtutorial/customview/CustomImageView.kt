@@ -6,7 +6,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import com.example.customviewtutorial.R
 
 class CustomImageView(
-    context: Context, attrs: AttributeSet?
+    context: Context, attrs: AttributeSet? = null
 ) : ConstraintLayout(context, attrs) {
 
     init {
